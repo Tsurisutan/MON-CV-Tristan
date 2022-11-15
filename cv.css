@@ -165,7 +165,6 @@ section > div{
     display: flex;
     flex-flow: row wrap;
     margin-bottom: 10px;
-    justify-content: center;
 }
 .comp p{
     flex: 0 0 40%;
