@@ -88,6 +88,8 @@ section > div{
     margin-top: -80px;
 }
 
+.h3gauche{
+    text-align: left;
 
 .prez{
     border-bottom: 2px dashed #ccc;
