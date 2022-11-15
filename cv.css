@@ -72,6 +72,9 @@ section h2{
     margin: 20px 0;
     width: 90%;
 }
+section h3{
+    text-align: left;
+}
 section > div{
     width: 90%;
 }
